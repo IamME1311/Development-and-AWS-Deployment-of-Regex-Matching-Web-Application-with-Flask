@@ -37,4 +37,4 @@ Steps:
 
 8. (BONUS) Implement a new route where a user can validate if a given email id is valid or not.
 
-9. (IMPORTANT) Deploy the application on AWS Cloud. LINK : 3.84.184.217:5000
+9. (IMPORTANT) Deploy the application on AWS Cloud. LINK : http://3.84.184.217:5000
